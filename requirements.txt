@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+opencv-python-headless
+Pillow
+numpy
+gdown>=4.6.0,<5.0.0
+matplotlib
+seaborn
+scikit-learn
+pandas
